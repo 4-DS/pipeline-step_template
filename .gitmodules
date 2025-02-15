@@ -1,0 +1,3 @@
+[submodule "sinara"]
+	path = sinara
+	url = https://github.com/4-DS/sinara.git

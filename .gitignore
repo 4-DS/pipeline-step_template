@@ -1,0 +1,13 @@
+/.idea/*
+/venv/*
+/tmp/*
+/tmp/
+tmp
+!/tmp/readme.txt
+/params/*
+!/params/
+!/params/step_params.json
+!/params/pipeline_params.json
+/readme_files/.ipynb_checkpoints/*
+**/__pycache__/*
+**/.ipynb_checkpoints/*
